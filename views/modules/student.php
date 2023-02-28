@@ -12,7 +12,7 @@
       <form role="form" id="student-form" method="POST" autocomplete="nope">
   
         <div class="grid grid-cols-2">
-          <h4 class="font-bold lg:col-span-1 dark:text-black">Personal Information</h4>
+          <h4 class="font-bold lg:col-span-1 dark:text-white">Personal Information</h4>
           <label class=" text-sm lg:col-span-1  flex justify-end">
               <select id="txt-status"
                 class="block w-[180px] mt-1 text-sm dark:text-gray-300 dark:border-gray-600 dark:bg-gray-700 form-select focus:border-yellow-400 focus:outline-none focus:shadow-outline-purple dark:focus:shadow-outline-gray"
