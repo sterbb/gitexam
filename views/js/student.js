@@ -1,11 +1,11 @@
 
 $(function(){
-  if(window.location.href == "http://localhost/tailwind_exam/student"){
+  if(window.location.href == "http://localhost/github_exam/gitexam/student"){
     $(".bnavemployee").removeClass("bg-black/80");
     $(".navemployee").removeClass("bg-yellow-600");
     $(".bnavstudent").addClass("bg-black/80");
     $(".navstudent").addClass("bg-yellow-600");
-  }else if(window.location.href == "http://localhost/tailwind_exam/employee"){
+  }else if(window.location.href == "http://localhost/github_exam/gitexam/employee"){
     $(".bnavemployee").addClass("bg-black/80");
     $(".navemployee").addClass("bg-yellow-600");
     $(".bnavstudent").removeClass("bg-black/80");
